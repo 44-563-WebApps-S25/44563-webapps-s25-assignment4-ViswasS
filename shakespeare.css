@@ -1,0 +1,39 @@
+/* General styles */
+.speech {
+    font-family: "Georgia", serif;
+    font-size: 16px;
+    color: black;
+}
+
+.stage-direction {
+    font-family: "Courier New", monospace;
+    font-size: 14px;
+    color: black;
+    background-color: #f4f4f4;
+    padding: 5px;
+    font-style: italic;
+}
+
+.stage-direction:hover {
+    background-color: #dcdcdc;
+    color: #333;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+
+/* Character-specific styles */
+.duke {
+    color: darkblue;
+}
+
+.escalus {
+    color: darkgreen;
+}
+
+.angelo {
+    color: darkred;
+}
